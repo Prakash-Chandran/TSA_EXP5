@@ -51,11 +51,19 @@ plt.show()
 ```
 
 ### OUTPUT:
+
+
 <img width="685" height="181" alt="image" src="https://github.com/user-attachments/assets/d5057e18-5b0d-43ae-81ee-740a47a2404e" />
+
+
 
 <img width="655" height="185" alt="image" src="https://github.com/user-attachments/assets/137f1d05-356b-4d8c-ae77-8468c7f52f80" />
 
+
+
 <img width="616" height="182" alt="image" src="https://github.com/user-attachments/assets/1c6bc2af-2fe6-44ae-8260-ac957fbec684" />
+
+
 
 <img width="678" height="151" alt="image" src="https://github.com/user-attachments/assets/3fd36832-5033-4c0f-9919-88dc1f8b0914" />
 
